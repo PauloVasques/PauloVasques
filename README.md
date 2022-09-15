@@ -1,10 +1,9 @@
 <h1 align="center">Welcome! :wave: I'm Paulo Stwart Dubovicki Vasques</h1>
-<h3 align="center">An Infrastructure Admininistrator who is currently diving into Dev world with focus on Java.</h3>
+<h3 align="center">A Software Developer with focus on Java and former Infrastructure Admininistrator.</h3>
 <h2 align="left">:speech_balloon:About Me</h2>
-<h3 align="left">Graduated  in Network Administration in 2008 and working with I.T. since then.  I worked in the Support area until I became an Infrastructure Analyst, troubleshooting problems and implementing new projects.</h3>
-<h3 align="left">Still at the beginning of my Dev journey, but fully dedicated and self-learning. Looking for an opportunity in the area to gain experience in the real world.</h3>
-<h3 align="left">Despite my lack of experience in developing, Im already an I.T. Professional who knows how to work in the business world and on an Agile Team.</h3>
-<h3 align="left">As a Network Administrator, I have knowledge in Linux Servers, monitoring tools (Zabbix+Grafana) and a bit of Databases (mysql and postgresql), </h3>
+<h3 align="left">Graduated in Network Administration in 2008 and working with I.T. since then.  I worked in the Support area until I became an Infrastructure Analyst, troubleshooting problems and implementing new projects.</h3>
+<h3 align="left">In 2021 I started working in the software development area, which made me want to learn even more about coding.</h3>
+<h3 align="left">As a former Network Administrator, I can use my previous knowledge in Linux Servers, monitoring tools (Zabbix+Grafana) and a bit of Databases (mysql and postgresql) to bring insights and aggregate more than just code the software.</h3>
 <h3 align="left">:mailbox:HowTo reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paulo-vasques" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-vasques" height="30" width="40" /></a>
