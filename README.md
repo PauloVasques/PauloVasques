@@ -2,7 +2,7 @@
 <h3 align="center">Ex-administrador de infraestrutura, atualmente desenvolvedor de software com foco em Java.</h3>
 <h2 align="left">:speech_balloon:Sobre</h2>
 <h3 align="left">Graduado em Administração de Redes em 2008, trabalhei como analista de infraestrutura até 2021, quando resolvi começar a focar em desenvolvimento, uma área que sempre me chamou atenção.</h3>
-<h3 align="left">Escolhi Java como linguagem e procuro me aperfeiçoar sempre mais, usando ainda minha experiência anterior para serviços além do código em si, indo desde o deploy com um fluxo CI/DI ao monitoramento.</h3>
+<h3 align="left">Escolhi Java como linguagem primária e procuro me aperfeiçoar sempre mais, usando ainda minha experiência anterior para serviços além do código em si, indo desde o deploy com um fluxo CI/DI ao monitoramento.</h3>
 <h3 align="left">:mailbox:Contato:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paulo-vasques" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-vasques" height="30" width="40" /></a>
